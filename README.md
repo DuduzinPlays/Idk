@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python<br>🎯 Goals: Be a Dev<br>Brazilian</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python<br>🎯 Goals: Be a Dev<br>🇧🇷Brazilian</p>
 
 ###
 
